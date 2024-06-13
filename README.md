@@ -8,13 +8,13 @@ apt-get install python3
 
 apt-get install git
 
-git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+git clone https://github.com/MHackerkhan/cctv-hack/
 
-cd Cam-Hackers
+cd cctv-hack
 
 pip install -r requirements.txt
 
-python3 cam-hackers.py
+python3 cctv-hack.py
 
 
 
